@@ -1,8 +1,6 @@
-https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/#:~:text=Random%20undersampling%20involves%20randomly%20selecting,more%20balanced%20distribution%20is%20reached.
+https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/
 
 https://machinelearningmastery.com/undersampling-algorithms-for-imbalanced-classification/
-
-https://towardsdatascience.com/oversampling-and-undersampling-5e2bbaf56dcf
 
 https://www.blog.trainindata.com/undersampling-techniques-for-imbalanced-data/
 
